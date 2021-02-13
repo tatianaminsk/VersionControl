@@ -1,0 +1,2 @@
+Information about repository (project):
+Learning Version Control width Git - by EPAM
